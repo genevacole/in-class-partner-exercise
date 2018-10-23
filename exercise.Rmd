@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 print("Keep your chin up, Pluto")
 ```
 
-## Pluto is real!!! My name is Geneva.
+
+## Pluto is real!!!  My name is Kendra and My name is Geneva.
+
 
 
