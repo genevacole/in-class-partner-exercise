@@ -15,4 +15,4 @@ print("Keep your chin up, Pluto")
 ## Pluto is real!!!  My name is Kendra and My name is Geneva.
 
 
-
+In conclusion, although Pluto is technically no longer a planet according to real scientists, it remains important in the hearts and minds of earthlings everywhere. 
