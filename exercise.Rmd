@@ -5,6 +5,8 @@ date: "10/23/2018"
 output: html_document
 ---
 
+I am going to make some changes to the file at the beginning. I like Git a lot!
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
